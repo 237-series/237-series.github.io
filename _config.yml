@@ -3,31 +3,32 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1.0
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sang-Gil Lee
+title: iOS Developer & System Software Researcher
+email: ask0137@naver.com 
+email: sk0137@cnu.ac.kr
+website: https://237-series.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  237-series
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: f49250137
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: sglee237
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-7642-4518
 
 # Additional icon links
 additional_links:
@@ -48,9 +49,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+#Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Sang-Gil and I'm a iOS Developer and System Software Researcher based on RTOS. 
+  안녕하세요. 이상길입니다. 저는 iOS 개발을 하면서, 대학원에서 RTOS와 시스템 소프트웨어 연구를 진행했습니다. 
+  I am most skilled in: <mark>Swift, Objc, C, Java, </mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
