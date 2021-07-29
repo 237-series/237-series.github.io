@@ -10,10 +10,10 @@ name: Sang-Gil Lee
 title: iOS Developer & System Software Researcher
 email: ask0137@naver.com 
 email: sk0137@cnu.ac.kr
-website: https://237-series.github.io/
+website: 237-series.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 #twitter_username: facespics
