@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-28T11:04:57+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">237-Series #1</title><subtitle>An amazing website.</subtitle><author><name>237-SangGil</name><email>sglee237@gmail.com</email></author><entry><title type="html">Swift 2020 특강자료</title><link href="http://localhost:4000/swift/swift-2020-incnu/" rel="alternate" type="text/html" title="Swift 2020 특강자료" /><published>2020-02-13T00:00:00+09:00</published><updated>2020-02-13T00:00:00+09:00</updated><id>http://localhost:4000/swift/swift-2020-incnu</id><content type="html" xml:base="http://localhost:4000/swift/swift-2020-incnu/"><![CDATA[<p>스위프트 특강 자료</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-28T11:21:44+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">237-Series #1</title><subtitle>An amazing website.</subtitle><author><name>237-SangGil</name><email>sglee237@gmail.com</email></author><entry><title type="html">Sky Diary Privacy</title><link href="http://localhost:4000/sky-diary-privacy/" rel="alternate" type="text/html" title="Sky Diary Privacy" /><published>2023-03-27T00:00:00+09:00</published><updated>2023-03-27T00:00:00+09:00</updated><id>http://localhost:4000/sky-diary-privacy</id><content type="html" xml:base="http://localhost:4000/sky-diary-privacy/"><![CDATA[<h1 id="skydiary-앱-개인정보-취급-방침">‘SkyDiary’ 앱 개인정보 취급 방침</h1>
+
+<p>‘SkyDiary’는 개인정보보호법에 따라 이용자들의 개인정보 보호 및 권익을 보호하고자 다음과 같은 처리방침을 두고 있습니다.</p>
+
+<p>당사는 개인정보처리방침을 개정하는 경우 앱 화면 및 웹사이트 공지사항을 통하여 공지할 것입니다.</p>
+
+<p>​</p>
+
+<h2 id="1-개인정보의-처리-목적-">1. 개인정보의 처리 목적 :</h2>
+
+<p>당사에서 개인정보를 별도로 저장하거나 이용하지 않습니다.</p>
+
+<p>​</p>
+
+<h2 id="2-개인정보-파일-현황">2. 개인정보 파일 현황</h2>
+<p>당사는 별도의 개인정보 파일을 사용하지 않으며 저장하지도 않습니다.</p>
+
+<p>당사는 쿠키를 저장하지 않으며 이용하지 않습니다.</p>
+
+<p>이용자가 이에 대해 의문이 있다면 해당 서비스(애플 및, 각 광고 미디어)로 직접 연락해야 합니다.</p>
+
+<p>​</p>
+
+<h2 id="3-개인정보의-처리-및-보유기간">3. 개인정보의 처리 및 보유기간</h2>
+<p>당사는 개인정보를 직접적으로 저장하거나 보유하지 않습니다.</p>
+
+<p>따라서 당사는 이용자의 개인정보를 처리하는 내용도 보유기간도 없습니다.</p>
+
+<p>​</p>
+
+<h2 id="4개인정보의-제3자-제공에-관한-사항">4.개인정보의 제3자 제공에 관한 사항</h2>
+
+<p>당사는 개인정보를 제3자에게 제공하지 않고 있습니다.</p>
+
+<p>​</p>
+
+<h2 id="5개인정보처리-위탁">5.개인정보처리 위탁</h2>
+
+<p>당사는 개인정보를 위탁하고 있지 않습니다.</p>
+
+<p>​</p>
+
+<h2 id="6정보주체의-권리-의무-및-그-행사방법">6.정보주체의 권리, 의무 및 그 행사방법</h2>
+
+<p>이용자는 개인정보주체로서 권리 행사할 수 있습니다.</p>
+
+<p>1) 개인정보 열람요구</p>
+
+<p>2) 오류 등이 있을 경우 정정 요구</p>
+
+<p>3) 삭제요구</p>
+
+<p>4) 처리 정지 요구</p>
+
+<p>당사는 개인정보를 저장하거나 위탁하지 않습니다.</p>
+
+<p>​</p>
+
+<h2 id="7개인정보의-파기">7.개인정보의 파기</h2>
+
+<p>당사의 어플리케이션은 독립 실행 방식의 어플리케이션으로 별도의 서버를 사용하지 않고있습니다.</p>
+
+<p>또한 개인정보를 저장하지 않으므로 파기할 것이 없습니다.</p>
+
+<p>그러나 사용자가 원할 경우 어플리케이션을 ‘삭제’함으로서 모든 데이터를 파기할 수 있습니다.</p>
+
+<p>​</p>
+
+<h2 id="8-타사-모듈-사용에-대한-안내">8. 타사 모듈 사용에 대한 안내</h2>
+<p>탑재된 타사 서비스 모듈은 다음과 같습니다.</p>
+
+<p>​</p>
+
+<h2 id="9개인정보-보호책임자-작성">9.개인정보 보호책임자 작성</h2>
+
+<p>본 개인정보처리정책에 대해 궁금하신 사항이 있거나, 개인정보 처리절차에 대한 질문, 의견 또는 우려가 있을 경우 아래 연락처로 연락 주시기 바랍니다.</p>
+
+<p>이메일 : sglee237@gmail.com</p>]]></content><author><name>237-SangGil</name><email>sglee237@gmail.com</email></author><summary type="html"><![CDATA[‘SkyDiary’ 앱 개인정보 취급 방침]]></summary></entry><entry><title type="html">Swift 2020 특강자료</title><link href="http://localhost:4000/swift/swift-2020-incnu/" rel="alternate" type="text/html" title="Swift 2020 특강자료" /><published>2020-02-13T00:00:00+09:00</published><updated>2020-02-13T00:00:00+09:00</updated><id>http://localhost:4000/swift/swift-2020-incnu</id><content type="html" xml:base="http://localhost:4000/swift/swift-2020-incnu/"><![CDATA[<p>스위프트 특강 자료</p>
 <ul>
   <li>첫번째 날: <a href="(../_attach/2020_swift_2020_swift_day1.pdf)">자료 다운받기</a></li>
 </ul>]]></content><author><name>237-SangGil</name><email>sglee237@gmail.com</email></author><category term="Swift" /><category term="Swift" /><category term="pdf" /><summary type="html"><![CDATA[스위프트 특강 자료 첫번째 날: 자료 다운받기]]></summary></entry><entry><title type="html">Welcome to Jeky!!!</title><link href="http://localhost:4000/jekyll/update/first-post/" rel="alternate" type="text/html" title="Welcome to Jeky!!!" /><published>2019-09-19T00:00:00+09:00</published><updated>2019-09-19T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/update/first-post</id><content type="html" xml:base="http://localhost:4000/jekyll/update/first-post/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
